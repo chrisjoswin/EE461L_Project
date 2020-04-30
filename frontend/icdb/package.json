@@ -24,7 +24,7 @@
     "angular-material-expansion-panel": "^0.7.2",
     "bootstrap": "^4.4.1",
     "firefox": "0.0.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "ngx-pagination": "^5.0.0",
     "rxjs": "~6.5.4",
     "set-default-browser": "^1.1.1",
